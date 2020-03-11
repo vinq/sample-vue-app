@@ -1,0 +1,23 @@
+.button {
+	border-radius: 5px;
+	margin: 10px;
+	padding: 10px;
+	border: 2px solid red;
+	width: 150px;
+	cursor: pointer;
+}
+
+.app {
+	padding: 20px;
+}
+
+.container {
+	height: 200px;
+	width: 170px;
+	padding: 10px;
+	overflow-y: scroll;
+}
+
+.message {
+	padding: 10px;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "vue_template",
+  "version": "1.0.0",
+  "description": "Sample Vue.js app that do some dynamic work. You can you it as a small boilerplate or something like that",
+  "main": "webpack.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
