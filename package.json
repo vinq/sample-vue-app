@@ -2,6 +2,11 @@
   "name": "vue_template",
   "version": "1.0.0",
   "description": "Sample Vue.js app that do some dynamic work. You can you it as a small boilerplate or something like that",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinq/sample-vue-app.git"
+  },
+  "readme": "README.md",
   "main": "webpack.config.js",
   "directories": {
     "lib": "lib"
